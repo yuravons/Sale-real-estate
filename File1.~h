@@ -1,0 +1,13 @@
+#ifndef HEADER3
+#define HEADER3
+
+#include "File2.h"
+
+typedef struct SObjects
+{
+   struct CResidentialPremises *pObjR;
+   struct CNonResidentialPremises *pObjN;
+}SObjects;
+
+#endif
+

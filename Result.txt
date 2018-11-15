@@ -1,0 +1,6 @@
+|RP|Chimichna|Richko|2|62|11|49|Perfectly|61750|
+|RP|Pancha|Vons|6|85|15|64|Bad|80700|
+|RP|Valova|Snizko|7|168|23|140|Nice|155988|
+|NRP|Lupu|Savchyk|10|220|Factory|1200000|
+|NRP|Masaruka|Purun|1|62|Shop|42800|
+|NRP|Topolnia|Vons|3|108|Storage|89999|
